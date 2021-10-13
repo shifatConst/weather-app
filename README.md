@@ -1,2 +1,2 @@
 # weather-app
-[Live link](https://gazi-shifat-reza.github.io/weather-app/)
+[Live link](https://shifatConst.github.io/weather-app/)
